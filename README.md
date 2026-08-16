@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 🎓 B.Tech CSE student, GGSIPU (2027 batch)
-- 💻 Currently blearning DSA n WEB DEVLOPMENT
+- 💻 Currently learning DSA n WEB DEVLOPMENT
 - 🧠 Also exploring AIML 
 - ✨ Always up for learning and creating something meaningful
 - 📚 A reader
